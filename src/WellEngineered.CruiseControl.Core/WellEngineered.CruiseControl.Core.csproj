@@ -1,0 +1,35 @@
+﻿<!--
+	Copyright ©2020-2021 WellEngineered.us, all rights reserved.
+	Distributed under the MIT license: http://www.opensource.org/licenses/mit-license.php
+-->
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <Import Project="..\common.props" />
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DefineConstants>TRACE;DEBUG;DISABLE_JSCRIPT</DefineConstants>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DefineConstants>TRACE;DISABLE_JSCRIPT</DefineConstants>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="2.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.TraceSource" Version="2.0.0" />
+    <PackageReference Include="Microsoft.Win32.Registry" Version="4.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WellEngineered.CruiseControl.PrivateBuild.EdtFtpNet\WellEngineered.CruiseControl.PrivateBuild.EdtFtpNet.csproj" />
+    <ProjectReference Include="..\WellEngineered.CruiseControl.PrivateBuild.Log4Net\WellEngineered.CruiseControl.PrivateBuild.Log4Net.csproj" />
+    <ProjectReference Include="..\WellEngineered.CruiseControl.PrivateBuild.NetReflector\WellEngineered.CruiseControl.PrivateBuild.NetReflector.csproj" />
+    <ProjectReference Include="..\WellEngineered.CruiseControl.PrivateBuild.SharpZipLib\WellEngineered.CruiseControl.PrivateBuild.SharpZipLib.csproj" />
+    <ProjectReference Include="..\WellEngineered.CruiseControl.Remote\WellEngineered.CruiseControl.Remote.csproj" />
+  </ItemGroup>
+
+</Project>

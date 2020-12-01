@@ -1,0 +1,54 @@
+------------------------------------------------------------------------------------------------------
+| OPEN SOURCE IMPORTS
+| last updated: 2020-10-07
+------------------------------------------------------------------------------------------------------
+
+[CruiseControl.NET]
+<https://github.com/ccnet/CruiseControl.NET>
+CruiseControl.NET-release-CCNet-1.8.zip <https://github.com/ccnet/CruiseControl.NET/tree/release/CCNet-1.8>
+
+// evaluated but not integrated as project is a WIP
+CruiseControl.NET-c73e1be335d3c336284929e6aa025830f638a19c.zip <https://github.com/ccnet/CruiseControl.NET/commit/c73e1be335d3c336284929e6aa025830f638a19c>
+
+
+[SharpZipLib]
+<https://github.com/icsharpcode/SharpZipLib>
+SharpZipLib-1.3.0.zip <https://github.com/icsharpcode/SharpZipLib/commit/8f7d89201afa13c814f9b3d1813884ffe0ec7025>
+
+
+[NetReflector]
+<https://github.com/dnauck/NetReflector>
+ccnet-NetReflector-5b6705fd7a014efc7a44dff5b44f22f88dfe52e0.zip <https://github.com/ccnet/NetReflector/commit/5b6705fd7a014efc7a44dff5b44f22f88dfe52e0>
+
+// evaluated but not integrated as project is a WIP
+NetReflector-a193aa2943f04d36728f590fe3c9e1160e83586c.zip <https://github.com/ccnet/NetReflector/commit/a193aa2943f04d36728f590fe3c9e1160e83586c>
+NetReflector-c0e01109def483a2f514f0156b373fcef244126a.zip <https://github.com/dnauck/NetReflector/commit/c0e01109def483a2f514f0156b373fcef244126a>
+netreflector-code-58-trunk.zip <https://sourceforge.net/p/netreflector/code/HEAD/tree/>
+
+
+[edtftpnet]
+<http://enterprisedt.com/products/edtftpnet/download/>
+edtftpnet [2.2.3].zip <http://enterprisedt.com/products/edtftpnet/download/>
+
+
+[log4net]
+<https://github.com/apache/logging-log4net/>
+logging-log4net-rel-2.0.11.zip <https://github.com/apache/logging-log4net/commit/d5cb2074691c5da552450ba0e83667a054f7fe70>
+
+
+[nvelocity]
+<https://github.com/castleproject/NVelocity>
+NVelocity3 [codeplex archive].zip <https://archive.codeplex.com/?p=nvelocity>
+
+// evaluated but not integrated as project is a WIP
+NVelocity-0413950fea71ecfe0ccb006b38067c4988600d76.zip <https://github.com/castleproject/NVelocity/commit/0413950fea71ecfe0ccb006b38067c4988600d76>
+
+
+[MonoRail]
+<https://github.com/castleproject/MonoRail>
+MonoRail-2a2eddea65b08dca835ff9e007683e0973265c55.zip <https://github.com/castleproject-deprecated/MonoRail/commit/2a2eddea65b08dca835ff9e007683e0973265c55>
+
+
+[csharpformat]
+<http://www.manoli.net/csharpformat/>
+CSharpFormat.zip <http://www.manoli.net/csharpformat/>

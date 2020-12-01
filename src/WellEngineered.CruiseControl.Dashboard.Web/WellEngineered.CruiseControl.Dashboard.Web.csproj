@@ -1,0 +1,30 @@
+<!--
+	Copyright ©2020-2021 WellEngineered.us, all rights reserved.
+	Distributed under the MIT license: http://www.opensource.org/licenses/mit-license.php
+-->
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <Import Project="..\common.props" />
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WellEngineered.CruiseControl.Core\WellEngineered.CruiseControl.Core.csproj" />
+    <ProjectReference Include="..\WellEngineered.CruiseControl.PrivateBuild.CSharpFormat\WellEngineered.CruiseControl.PrivateBuild.CSharpFormat.csproj" />
+    <ProjectReference Include="..\WellEngineered.CruiseControl.PrivateBuild.NetReflector\WellEngineered.CruiseControl.PrivateBuild.NetReflector.csproj" />
+    <ProjectReference Include="..\WellEngineered.CruiseControl.PrivateBuild.NVelocity\WellEngineered.CruiseControl.PrivateBuild.NVelocity.csproj" />
+    <ProjectReference Include="..\WellEngineered.CruiseControl.PrivateBuild.SharpZipLib\WellEngineered.CruiseControl.PrivateBuild.SharpZipLib.csproj" />
+    <ProjectReference Include="..\WellEngineered.CruiseControl.Objection\WellEngineered.CruiseControl.Objection.csproj" />
+    <ProjectReference Include="..\WellEngineered.CruiseControl.Remote\WellEngineered.CruiseControl.Remote.csproj" />
+  </ItemGroup>
+
+</Project>

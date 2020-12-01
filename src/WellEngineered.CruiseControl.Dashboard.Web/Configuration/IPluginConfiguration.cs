@@ -1,0 +1,15 @@
+using WellEngineered.CruiseControl.WebDashboard.Dashboard;
+
+namespace WellEngineered.CruiseControl.WebDashboard.Configuration
+{
+	public interface IPluginConfiguration
+	{
+        string TemplateLocation { get; }
+		IPlugin[] FarmPlugins { get; set; }
+		IPlugin[] ServerPlugins { get; set; }
+		IPlugin[] ProjectPlugins { get; set; }
+		IBuildPlugin[] BuildPlugins { get; set; }
+        ISecurityPlugin[] SecurityPlugins { get; set; }
+        ISessionStore SessionStore { get; set; }
+	}
+}

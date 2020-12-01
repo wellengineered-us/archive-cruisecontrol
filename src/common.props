@@ -1,0 +1,47 @@
+<!--
+	Copyright ©2020-2021 WellEngineered.us, all rights reserved.
+	Distributed under the MIT license: http://www.opensource.org/licenses/mit-license.php
+-->
+<Project>
+	<PropertyGroup>
+		<LangVersion>latest</LangVersion>
+		<DebugType>portable</DebugType>
+		<SignAssembly>true</SignAssembly>
+		<AssemblyOriginatorKeyFile>..\CruiseControl.snk</AssemblyOriginatorKeyFile>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<Configuration>debug</Configuration>
+		<Company>WellEngineered.us</Company>
+		<Product>WellEngineered :: CruiseControl</Product>
+		<Copyright>Copyright ©2020-2021 WellEngineered.us, all rights reserved.</Copyright>
+		<Description>$(MSBuildProjectName)</Description>
+
+		<VersionPrefix>0.1.0</VersionPrefix>
+		<VersionSuffix>mvp</VersionSuffix>
+		<!--<Version></Version>
+		<AssemblyVersion></AssemblyVersion>	
+		<FileVersion></FileVersion>-->
+
+		<AssemblyTitle>$(MSBuildProjectName) -- $(TargetFramework)</AssemblyTitle>
+
+
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<PackageId>$(MSBuildProjectName)</PackageId>
+		<Authors>WellEngineered.us</Authors>
+		<PackageTags>CruiseControl</PackageTags>
+		<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+		<PackageIcon></PackageIcon>
+		<PackageProjectUrl>http://www.wellengineered-us/projects/cruisecontrol</PackageProjectUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<!--<PackageLicenseFile></PackageLicenseFile>-->
+		<RepositoryType>git</RepositoryType>
+		<RepositoryUrl>https://github.com/wellengineered-us/cruisecontrol</RepositoryUrl>
+		<NeutralLanguage>en-US</NeutralLanguage>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Include="..\CruiseControl.snk" Link="CruiseControl.snk" />
+		<None Include="..\..\LICENSE" Link="License.txt" />
+	</ItemGroup>
+</Project>

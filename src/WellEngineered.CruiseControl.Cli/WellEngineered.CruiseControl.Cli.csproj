@@ -1,0 +1,20 @@
+<!--
+	Copyright ©2020-2021 WellEngineered.us, all rights reserved.
+	Distributed under the MIT license: http://www.opensource.org/licenses/mit-license.php
+-->
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <Import Project="..\common.props" />
+
+  <ItemGroup>
+    <ProjectReference Include="..\WellEngineered.CruiseControl.Core\WellEngineered.CruiseControl.Core.csproj" />
+    <ProjectReference Include="..\WellEngineered.CruiseControl.MSBuild\WellEngineered.CruiseControl.MSBuild.csproj" />
+    <ProjectReference Include="..\WellEngineered.CruiseControl.Remote\WellEngineered.CruiseControl.Remote.csproj" />
+  </ItemGroup>
+
+</Project>
