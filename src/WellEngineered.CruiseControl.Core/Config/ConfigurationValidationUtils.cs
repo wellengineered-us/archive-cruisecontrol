@@ -1,4 +1,4 @@
-﻿namespace WellEngineered.CruiseControl.Core.Config
+namespace WellEngineered.CruiseControl.Core.Config
 {
     /// <summary>
     /// Helper methods for validating configuration settings.

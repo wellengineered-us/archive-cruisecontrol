@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Xml;
 
 namespace WellEngineered.CruiseControl.Remote

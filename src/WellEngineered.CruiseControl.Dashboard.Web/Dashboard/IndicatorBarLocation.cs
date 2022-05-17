@@ -1,4 +1,4 @@
-﻿namespace WellEngineered.CruiseControl.WebDashboard.Dashboard
+namespace WellEngineered.CruiseControl.WebDashboard.Dashboard
 {
     /// <summary>
     /// Defines the location of the success indicator bar.

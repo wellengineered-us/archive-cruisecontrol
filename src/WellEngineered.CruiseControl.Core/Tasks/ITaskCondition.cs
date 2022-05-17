@@ -1,4 +1,4 @@
-﻿namespace WellEngineered.CruiseControl.Core.Tasks
+namespace WellEngineered.CruiseControl.Core.Tasks
 {
     /// <title>Task Condition Blocks</title>
     /// <summary>

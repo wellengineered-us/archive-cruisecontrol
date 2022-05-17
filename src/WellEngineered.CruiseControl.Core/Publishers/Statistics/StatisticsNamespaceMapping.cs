@@ -1,4 +1,4 @@
-﻿using WellEngineered.CruiseControl.PrivateBuild.NetReflector.Attributes;
+using WellEngineered.CruiseControl.PrivateBuild.NetReflector.Attributes;
 
 namespace WellEngineered.CruiseControl.Core.Publishers.Statistics
 {

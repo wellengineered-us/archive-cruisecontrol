@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 
 using WellEngineered.CruiseControl.PrivateBuild.NetReflector.Attributes;
 using WellEngineered.CruiseControl.WebDashboard.Dashboard;

@@ -1,4 +1,4 @@
-﻿
+
 namespace WellEngineered.CruiseControl.WebDashboard.Plugins.Administration
 {
     /// <summary>

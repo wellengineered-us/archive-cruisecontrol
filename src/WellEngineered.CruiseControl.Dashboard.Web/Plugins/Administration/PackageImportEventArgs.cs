@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 
 namespace WellEngineered.CruiseControl.WebDashboard.Plugins.Administration

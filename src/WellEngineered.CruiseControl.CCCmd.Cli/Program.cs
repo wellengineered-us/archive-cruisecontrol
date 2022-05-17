@@ -1,4 +1,4 @@
-﻿using WellEngineered.CruiseControl.Remote;
+using WellEngineered.CruiseControl.Remote;
 using WellEngineered.CruiseControl.Remote.Mono;
 using System;
 using System.Collections.Generic;

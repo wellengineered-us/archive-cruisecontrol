@@ -1,4 +1,4 @@
-﻿namespace WellEngineered.CruiseControl.Core.Util
+namespace WellEngineered.CruiseControl.Core.Util
 {
     /// <summary>
     /// Provides an interface for performing compression.

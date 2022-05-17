@@ -1,4 +1,4 @@
-﻿namespace WellEngineered.CruiseControl.Core.Config
+namespace WellEngineered.CruiseControl.Core.Config
 {
     /// <summary>
     /// Allows a configuration item to perform any internal validation checks.

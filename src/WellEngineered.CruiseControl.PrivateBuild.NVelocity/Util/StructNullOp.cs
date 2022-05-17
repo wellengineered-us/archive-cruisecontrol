@@ -1,4 +1,4 @@
-﻿
+
 namespace WellEngineered.CruiseControl.PrivateBuild.NVelocity.Util
 {
     sealed class StructNullOp<T>

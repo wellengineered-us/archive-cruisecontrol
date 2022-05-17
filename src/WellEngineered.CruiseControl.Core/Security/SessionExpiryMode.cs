@@ -1,4 +1,4 @@
-﻿namespace WellEngineered.CruiseControl.Core.Security
+namespace WellEngineered.CruiseControl.Core.Security
 {
     /// <summary>
     /// Defines the expirt mode to use for sessions.

@@ -1,4 +1,4 @@
-﻿
+
 using WellEngineered.CruiseControl.Core.SourceControl;
 using WellEngineered.CruiseControl.PrivateBuild.EdtFtpNet.Net.Ftp;
 using WellEngineered.CruiseControl.Remote;

@@ -1,4 +1,4 @@
-﻿using WellEngineered.CruiseControl.WebDashboard.MVC.Cruise;
+using WellEngineered.CruiseControl.WebDashboard.MVC.Cruise;
 
 namespace WellEngineered.CruiseControl.WebDashboard.Dashboard
 {

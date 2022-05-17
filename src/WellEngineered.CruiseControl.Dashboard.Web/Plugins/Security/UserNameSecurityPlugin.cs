@@ -1,4 +1,4 @@
-﻿using WellEngineered.CruiseControl.Core.Reporting.Dashboard.Navigation;
+using WellEngineered.CruiseControl.Core.Reporting.Dashboard.Navigation;
 using WellEngineered.CruiseControl.PrivateBuild.NetReflector.Attributes;
 using WellEngineered.CruiseControl.WebDashboard.Dashboard;
 using WellEngineered.CruiseControl.WebDashboard.MVC.View;

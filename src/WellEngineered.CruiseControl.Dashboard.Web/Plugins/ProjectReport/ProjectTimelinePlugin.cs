@@ -1,4 +1,4 @@
-﻿using WellEngineered.CruiseControl.PrivateBuild.NetReflector.Attributes;
+using WellEngineered.CruiseControl.PrivateBuild.NetReflector.Attributes;
 using WellEngineered.CruiseControl.WebDashboard.Dashboard;
 
 namespace WellEngineered.CruiseControl.WebDashboard.Plugins.ProjectReport

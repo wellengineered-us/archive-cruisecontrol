@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections;
 
 using WellEngineered.CruiseControl.Core.Reporting.Dashboard.Navigation;

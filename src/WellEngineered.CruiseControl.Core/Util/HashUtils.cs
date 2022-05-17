@@ -1,4 +1,4 @@
-﻿using System.Linq;
+using System.Linq;
 
 namespace WellEngineered.CruiseControl.Core.Util
 {

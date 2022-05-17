@@ -1,4 +1,4 @@
-﻿using WellEngineered.CruiseControl.PrivateBuild.NetReflector.Attributes;
+using WellEngineered.CruiseControl.PrivateBuild.NetReflector.Attributes;
 using WellEngineered.CruiseControl.PrivateBuild.NetReflector.Serialisers;
 using WellEngineered.CruiseControl.PrivateBuild.NetReflector.Util;
 

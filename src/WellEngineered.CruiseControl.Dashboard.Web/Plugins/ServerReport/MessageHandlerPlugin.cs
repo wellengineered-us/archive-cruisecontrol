@@ -1,4 +1,4 @@
-﻿using WellEngineered.CruiseControl.WebDashboard.Dashboard;
+using WellEngineered.CruiseControl.WebDashboard.Dashboard;
 using WellEngineered.CruiseControl.WebDashboard.IO;
 using WellEngineered.CruiseControl.WebDashboard.MVC;
 using WellEngineered.CruiseControl.WebDashboard.MVC.Cruise;

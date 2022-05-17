@@ -1,4 +1,4 @@
-﻿using WellEngineered.CruiseControl.Remote.Security;
+using WellEngineered.CruiseControl.Remote.Security;
 
 namespace WellEngineered.CruiseControl.Core.Security
 {

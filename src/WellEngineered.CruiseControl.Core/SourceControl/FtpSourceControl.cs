@@ -1,4 +1,4 @@
-﻿using System.Globalization;
+using System.Globalization;
 
 using WellEngineered.CruiseControl.Core.Util;
 using WellEngineered.CruiseControl.PrivateBuild.NetReflector.Attributes;

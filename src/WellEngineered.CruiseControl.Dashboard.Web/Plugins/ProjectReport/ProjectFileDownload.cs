@@ -1,4 +1,4 @@
-﻿using System.IO;
+using System.IO;
 
 using WellEngineered.CruiseControl.Remote;
 using WellEngineered.CruiseControl.WebDashboard.IO;

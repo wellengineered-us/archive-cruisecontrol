@@ -1,4 +1,4 @@
-﻿namespace WellEngineered.CruiseControl.PrivateBuild.NVelocity.Extension
+namespace WellEngineered.CruiseControl.PrivateBuild.NVelocity.Extension
 {
     /// <summary>
     /// 

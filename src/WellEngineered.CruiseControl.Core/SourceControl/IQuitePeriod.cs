@@ -1,4 +1,4 @@
-﻿namespace WellEngineered.CruiseControl.Core.SourceControl
+namespace WellEngineered.CruiseControl.Core.SourceControl
 {
     /// <summary>
     /// 	

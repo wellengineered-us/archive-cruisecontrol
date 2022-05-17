@@ -1,4 +1,4 @@
-﻿#if !NoReflector
+#if !NoReflector
 using Exortech.NetReflector;
 #endif
 using System;

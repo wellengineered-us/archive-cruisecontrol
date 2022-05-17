@@ -1,4 +1,4 @@
-﻿namespace WellEngineered.CruiseControl.Core.SourceControl.Mercurial
+namespace WellEngineered.CruiseControl.Core.SourceControl.Mercurial
 {
 	/// <summary>
 	/// Enumeration to indicate the status of the repository after HgCreateLocalRepository was called.

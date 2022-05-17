@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Threading;
 
 using WellEngineered.CruiseControl.Core.Config;

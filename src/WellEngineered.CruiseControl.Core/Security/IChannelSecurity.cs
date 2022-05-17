@@ -1,4 +1,4 @@
-﻿namespace WellEngineered.CruiseControl.Core.Security
+namespace WellEngineered.CruiseControl.Core.Security
 {
     /// <summary>
     /// The security requirements for sending or receiving messages.

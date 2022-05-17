@@ -1,4 +1,4 @@
-﻿namespace WellEngineered.CruiseControl.Core
+namespace WellEngineered.CruiseControl.Core
 {
     /// <summary>
     /// Marks a publisher as a merge publisher (i.e. not to delete temporary files if it fails.)

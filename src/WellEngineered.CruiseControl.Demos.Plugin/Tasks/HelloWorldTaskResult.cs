@@ -1,4 +1,4 @@
-﻿using WellEngineered.CruiseControl.Core;
+using WellEngineered.CruiseControl.Core;
 
 namespace WellEngineered.CruiseControl.Demos.Plugin.Tasks
 {

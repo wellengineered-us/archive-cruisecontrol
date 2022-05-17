@@ -1,4 +1,4 @@
-﻿namespace WellEngineered.CruiseControl.Core
+namespace WellEngineered.CruiseControl.Core
 {
     /// <summary>
     /// Defines an item that has a controlable status.

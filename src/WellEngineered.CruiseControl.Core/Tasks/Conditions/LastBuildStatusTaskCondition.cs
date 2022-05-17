@@ -1,4 +1,4 @@
-﻿using WellEngineered.CruiseControl.PrivateBuild.NetReflector.Attributes;
+using WellEngineered.CruiseControl.PrivateBuild.NetReflector.Attributes;
 using WellEngineered.CruiseControl.Remote;
 
 namespace WellEngineered.CruiseControl.Core.Tasks.Conditions

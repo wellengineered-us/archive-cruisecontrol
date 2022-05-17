@@ -1,4 +1,4 @@
-﻿namespace WellEngineered.CruiseControl.Core.Security
+namespace WellEngineered.CruiseControl.Core.Security
 {
     /// <summary>
     /// Provides the basic security information for a channel.

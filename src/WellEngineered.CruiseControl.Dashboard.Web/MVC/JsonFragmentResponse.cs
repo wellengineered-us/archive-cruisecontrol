@@ -1,4 +1,4 @@
-﻿using WellEngineered.CruiseControl.WebDashboard.IO;
+using WellEngineered.CruiseControl.WebDashboard.IO;
 
 using Microsoft.AspNetCore.Http;
 

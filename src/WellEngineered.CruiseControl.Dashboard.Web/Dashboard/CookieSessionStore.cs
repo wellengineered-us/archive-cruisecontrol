@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 using WellEngineered.CruiseControl.Core.Reporting.Dashboard.Navigation;
 using WellEngineered.CruiseControl.PrivateBuild.NetReflector.Attributes;

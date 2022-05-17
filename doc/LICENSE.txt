@@ -1,4 +1,4 @@
-﻿CruiseControl.NET for .NET Core
+CruiseControl.NET for .NET Core
 
 Copyright ©2020-2021 WellEngineered.us, all rights reserved.
 

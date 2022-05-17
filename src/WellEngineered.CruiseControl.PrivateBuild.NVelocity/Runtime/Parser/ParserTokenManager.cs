@@ -5178,7 +5178,7 @@ namespace WellEngineered.CruiseControl.PrivateBuild.NVelocity.Runtime.Parser
                 }
             }
         }
-        //UPGRADE_NOTE: Final �Ѵӡ�jjnextStates�����������Ƴ��� "ms-help://MS.VSCC.v80/dv_commoner/local/redirect.htm?index='!DefaultContextWindowIndex'&keyword='jlca1003'"
+        //UPGRADE_NOTE: Final ï¿½Ñ´Ó¡ï¿½jjnextStatesï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Æ³ï¿½ï¿½ï¿½ "ms-help://MS.VSCC.v80/dv_commoner/local/redirect.htm?index='!DefaultContextWindowIndex'&keyword='jlca1003'"
         internal static readonly int[] jjnextStates = new int[] { 87, 89, 90, 91, 96, 97, 87, 90, 57, 96, 27, 28, 31, 11, 12, 13, 1, 2, 4, 11, 16, 12, 13, 24, 25, 29, 30, 66, 67, 69, 70, 71, 72, 83, 85, 80, 81, 77, 78, 14, 15, 17, 19, 24, 25, 60, 61, 73, 74, 94, 95, 98, 99, 5, 6, 7, 8, 9, 10, 78, 80, 81, 82, 87, 88, 78, 81, 10, 87, 19, 20, 31, 32, 34, 42, 43, 45, 50, 32, 51, 66, 43, 67, 54, 57, 64, 71, 76, 22, 23, 24, 25, 35, 40, 47, 13, 14, 26, 27, 85, 86, 89, 90, 6, 11, 33, 16, 18, 3, 4, 20, 21, 23, 24, 25, 26, 14, 15, 27, 28, 8, 9, 10, 11, 12, 13, 6, 11, 27, 17, 18, 19, 20, 21, 22, 50, 52, 53, 54, 64, 65, 50, 53, 59, 64, 6, 11, 48, 30, 31, 34, 14, 15, 16, 14, 19, 15, 16, 32, 33, 38, 39, 40, 41, 17, 18, 20, 22, 27, 28, 42, 43, 57, 58, 62, 63 };
         private static bool jjCanMove_0(int hiByte, int i1, int i2, long l1, long l2)
         {

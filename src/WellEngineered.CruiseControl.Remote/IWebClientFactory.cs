@@ -1,4 +1,4 @@
-﻿namespace WellEngineered.CruiseControl.Remote
+namespace WellEngineered.CruiseControl.Remote
 {
     /// <summary>
     /// Factory for generating web clients.

@@ -1,4 +1,4 @@
-﻿namespace WellEngineered.CruiseControl.Core
+namespace WellEngineered.CruiseControl.Core
 {
     /// <summary>
     /// A type of source control operation.

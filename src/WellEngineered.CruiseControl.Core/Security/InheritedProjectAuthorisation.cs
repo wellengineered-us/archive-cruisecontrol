@@ -1,4 +1,4 @@
-﻿using WellEngineered.CruiseControl.PrivateBuild.NetReflector.Attributes;
+using WellEngineered.CruiseControl.PrivateBuild.NetReflector.Attributes;
 using WellEngineered.CruiseControl.Remote.Security;
 
 namespace WellEngineered.CruiseControl.Core.Security

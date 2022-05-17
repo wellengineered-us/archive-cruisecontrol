@@ -1,4 +1,4 @@
-﻿#pragma warning disable 0618
+#pragma warning disable 0618
 using System;
 using System.Collections.Generic;
 //using System.Runtime.Remoting;

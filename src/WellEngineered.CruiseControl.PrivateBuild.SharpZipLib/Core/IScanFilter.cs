@@ -1,4 +1,4 @@
-﻿namespace WellEngineered.CruiseControl.PrivateBuild.SharpZipLib.Core
+namespace WellEngineered.CruiseControl.PrivateBuild.SharpZipLib.Core
 {
 	/// <summary>
 	/// Scanning filters support filtering of names.

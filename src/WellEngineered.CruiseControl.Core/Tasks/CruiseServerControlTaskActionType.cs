@@ -1,4 +1,4 @@
-﻿namespace WellEngineered.CruiseControl.Core.Tasks
+namespace WellEngineered.CruiseControl.Core.Tasks
 {
     /// <summary>
     /// The allowed actions to perform on a CruiseControl.NET server.

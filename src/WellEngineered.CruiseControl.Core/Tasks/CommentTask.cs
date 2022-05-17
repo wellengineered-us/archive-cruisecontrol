@@ -1,4 +1,4 @@
-﻿
+
 
 using WellEngineered.CruiseControl.Core.Util;
 using WellEngineered.CruiseControl.PrivateBuild.NetReflector.Attributes;

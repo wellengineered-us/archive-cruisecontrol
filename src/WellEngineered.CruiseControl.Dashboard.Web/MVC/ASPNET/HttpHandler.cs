@@ -1,4 +1,4 @@
-﻿using System.Reflection;
+using System.Reflection;
 using System.Threading.Tasks;
 
 using WellEngineered.CruiseControl.Objection;

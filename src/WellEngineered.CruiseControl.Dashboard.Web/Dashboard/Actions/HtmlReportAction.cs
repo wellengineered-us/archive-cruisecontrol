@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 
 using WellEngineered.CruiseControl.WebDashboard.IO;
 using WellEngineered.CruiseControl.WebDashboard.MVC;

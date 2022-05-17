@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 using WellEngineered.CruiseControl.Remote;
 using WellEngineered.CruiseControl.Remote.Events;

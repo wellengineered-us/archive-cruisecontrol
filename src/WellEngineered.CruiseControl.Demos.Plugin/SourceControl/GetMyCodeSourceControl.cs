@@ -1,4 +1,4 @@
-﻿using WellEngineered.CruiseControl.Core;
+using WellEngineered.CruiseControl.Core;
 using WellEngineered.CruiseControl.Core.SourceControl;
 using WellEngineered.CruiseControl.Core.Tasks;
 using WellEngineered.CruiseControl.Core.Util;

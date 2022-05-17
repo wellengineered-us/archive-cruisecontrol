@@ -1,4 +1,4 @@
-﻿namespace WellEngineered.CruiseControl.Core.Util
+namespace WellEngineered.CruiseControl.Core.Util
 {
     /// <summary>
     /// Defines a data item as having both "public" and "private" modes.

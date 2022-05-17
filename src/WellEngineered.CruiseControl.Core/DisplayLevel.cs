@@ -1,4 +1,4 @@
-﻿namespace WellEngineered.CruiseControl.Core
+namespace WellEngineered.CruiseControl.Core
 {
     /// <summary>
     /// Defines the display level of a property.

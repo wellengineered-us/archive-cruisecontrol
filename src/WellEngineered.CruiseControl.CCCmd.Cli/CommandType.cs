@@ -1,4 +1,4 @@
-﻿namespace WellEngineered.CruiseControl.CCCmd.ConsoleTool
+namespace WellEngineered.CruiseControl.CCCmd.ConsoleTool
 {
     public enum CommandType
     {

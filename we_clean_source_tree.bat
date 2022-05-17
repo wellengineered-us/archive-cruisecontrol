@@ -1,7 +1,7 @@
 @echo off
 
 REM
-REM Copyright ©2020-2021 WellEngineered.us, all rights reserved.
+REM Copyright Â©2020-2021 WellEngineered.us, all rights reserved.
 REM Distributed under the MIT license: https://opensource.org/licenses/MIT
 REM
 

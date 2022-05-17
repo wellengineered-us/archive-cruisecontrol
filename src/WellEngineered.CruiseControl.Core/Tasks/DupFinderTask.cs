@@ -1,4 +1,4 @@
-﻿//-----------------------------------------------------------------------
+//-----------------------------------------------------------------------
 // <copyright file="DupFinderTask.cs" company="Craig Sutherland">
 //     Copyright (c) 2009 CruiseControl.NET. All rights reserved.
 // </copyright>

@@ -1,4 +1,4 @@
-﻿//-----------------------------------------------------------------------
+//-----------------------------------------------------------------------
 // <copyright file="SynchronisedData.cs" company="CruiseControl.NET">
 //     Copyright (c) 2009 CruiseControl.NET. All rights reserved.
 // </copyright>

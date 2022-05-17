@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq.Expressions;
 
 namespace WellEngineered.CruiseControl.PrivateBuild.NVelocity.Util

@@ -1,4 +1,4 @@
-﻿using WellEngineered.CruiseControl.Core;
+using WellEngineered.CruiseControl.Core;
 using WellEngineered.CruiseControl.Core.Config;
 using WellEngineered.CruiseControl.Core.Tasks;
 using WellEngineered.CruiseControl.PrivateBuild.NetReflector.Attributes;

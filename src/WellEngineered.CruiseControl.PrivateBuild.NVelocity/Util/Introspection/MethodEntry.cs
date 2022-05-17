@@ -1,4 +1,4 @@
-﻿using System.Reflection;
+using System.Reflection;
 
 namespace WellEngineered.CruiseControl.PrivateBuild.NVelocity.Util.Introspection
 {

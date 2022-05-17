@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 using WellEngineered.CruiseControl.PrivateBuild.NVelocity.Context;
 using WellEngineered.CruiseControl.PrivateBuild.NVelocity.Exception;

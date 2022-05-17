@@ -1,4 +1,4 @@
-﻿namespace WellEngineered.CruiseControl.Core.Reporting.Dashboard.Navigation
+namespace WellEngineered.CruiseControl.Core.Reporting.Dashboard.Navigation
 {
     /// <summary>
     /// Interface for storing sessions.
